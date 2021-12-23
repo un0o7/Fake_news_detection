@@ -12,7 +12,7 @@ Original EANN： https://doi.org/10.1145/3219819.3219903   code: https://github.
 
 First, have a look at original EANN model
 
-<img src="images/README/image-20211223174348290.png" alt="image-20211223174348290" style="zoom: 67%;" /> 
+![image-20211223181011729](https://img2020.cnblogs.com/blog/2348945/202112/2348945-20211223181014822-964823199.png)
 
 It uses Text-CNN as the text feature extractor which is poor in unstanding the semantics of sentences. 
 
