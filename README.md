@@ -1,4 +1,4 @@
-# fake news detection
+# fake news detection through improved EANN with BERT
 
 This task is for my datamining course project. And we use the weibo dataset which is from EANN. 
 
